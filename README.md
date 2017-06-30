@@ -17,7 +17,7 @@ You will also get an introduction to the Node.js framework, you will download an
 **Tools:**  
 
 * [Git](https://git-scm.com/downloads)  
-* [Sublime Text 3](https://www.sublimetext.com/3)  
+* [VS Code](https://code.visualstudio.com/) or [Sublime Text 3](https://www.sublimetext.com/3) or ...    
 * [Node.js](https://nodejs.org/en/)
 
 **Exercises:**  
