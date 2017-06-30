@@ -1,6 +1,6 @@
 # Day 1 - Introduction to node.js Web Development    
 
-**Time:** 25/8-2017, 09:15 - 13:20
+**Time:** 25/8-2017, 09:15 - 14:00
 
 In this first class you will get introduced to what we are going to work on the next 14 weeks.   
 
