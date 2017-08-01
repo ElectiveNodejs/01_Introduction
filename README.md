@@ -21,10 +21,8 @@ You will also get an introduction to the Node.js framework, you will download an
 * [Node.js](https://nodejs.org/en/)
 
 **Exercises:**  
-<! --
+<!--
 * [Install git](https://git-scm.com/downloads)
-* [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-* [Introduction to the Mac OS X Command Li](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 * [Unix/Linux Command Reference](https://ubuntudanmark.dk/filer/fwunixref.pdf)
 * <a href="/my-first-webserver/">My first Webserver</a> (used as "follow along" example in this class)
 
