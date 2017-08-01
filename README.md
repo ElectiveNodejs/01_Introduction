@@ -25,7 +25,7 @@ You will also get an introduction to the Node.js framework, you will download an
 ## Exercises: 
 * [Install git](https://git-scm.com/downloads)
 * [Unix/Linux Command Reference](https://ubuntudanmark.dk/filer/fwunixref.pdf)
-* <a href="/tutorials/my-first-webserver/">My first Webserver</a> (used as "follow along" example in this class)
+* <a href="/tutorials/my-first-webserver.md">My first Webserver</a> (used as "follow along" example in this class)
 
 ### Homework 
 _(this should be done before the class in 2 weeks (8-9-2017))_    
