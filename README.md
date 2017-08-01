@@ -6,7 +6,7 @@ In this first class you will get introduced to what we are going to work on the 
 
 You will also get an introduction to the Node.js framework, you will download and install the framework, and you will create your first webserver and webpage. This webserver will run locally on your computer and it will be accessable on your local network for everybody. 
 
-**Objectives:**
+## Objectives:
 
 * An overview of what will be covered in the next 14 weeks.
   * Keallo, our common coding and example project.
@@ -15,18 +15,19 @@ You will also get an introduction to the Node.js framework, you will download an
 * Introduction to and installation of [Node.js](https://nodejs.org/en/).
 * [Make your first Webserver](/my-first-webserver/) and a Hello World web page.
 
-**Tools:**  
+## Tools:  
 
 * [Git](https://git-scm.com/downloads)  
 * [VS Code](https://code.visualstudio.com/) or [Sublime Text 3](https://www.sublimetext.com/3) or ...    
 * [Node.js](https://nodejs.org/en/)
 
-**Exercises:**  
+## Exercises: 
 * [Install git](https://git-scm.com/downloads)
 * [Unix/Linux Command Reference](https://ubuntudanmark.dk/filer/fwunixref.pdf)
 * <a href="/my-first-webserver/">My first Webserver</a> (used as "follow along" example in this class)
 
-**Homework** (this should be done before the class in 2 weeks (8-9-2017))    
+### Homework 
+_(this should be done before the class in 2 weeks (8-9-2017))_    
 
 In your terminal run these commands:
 
