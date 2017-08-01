@@ -6,37 +6,51 @@ In this first class you will get introduced to what we are going to work on the 
 
 You will also get an introduction to the Node.js framework, you will download and install the framework, and you will create your first webserver and webpage. This webserver will run locally on your computer and it will be accessable on your local network for everybody. 
 
-### Events and Event-driven Programming
-When we do web development we will by default be doing event driven programming. Javascript was developed for handeling that, and node.js  XXXXX 
-
-**Objectives:**
+## Objectives:
 
 * An overview of what will be covered in the next 14 weeks.
+  * Keallo, our common coding and example project.
   * [Curriculum](https://github.com/ElectiveNodejs/Curriculum/blob/master/README.md )
   * [Exam](/exam-requirements/) and [Mandatory Assignments]()
 * Introduction to and installation of [Node.js](https://nodejs.org/en/).
 * Itroduction to event driven programming
 * [Make your first Webserver](/my-first-webserver/) and a Hello World web page.
 
-**Curiculum**:     
-
-* [Events and Event-driven Programming](http://www.robert-drummond.com/2015/04/21/event-driven-programming-finite-state-machines-and-nodejs/)    
-
-**Tools:**  
+## Tools:  
 
 * [Git](https://git-scm.com/downloads)  
 * [VS Code](https://code.visualstudio.com/) or [Sublime Text 3](https://www.sublimetext.com/3) or ...    
 * [Node.js](https://nodejs.org/en/)
 
-**Exercises:**  
-<! --
+## Exercises: 
 * [Install git](https://git-scm.com/downloads)
-* [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-* [Introduction to the Mac OS X Command Li](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 * [Unix/Linux Command Reference](https://ubuntudanmark.dk/filer/fwunixref.pdf)
 * <a href="/my-first-webserver/">My first Webserver</a> (used as "follow along" example in this class)
 
---> 
+### Homework 
+_(this should be done before the class in 2 weeks (8-9-2017))_    
+
+In your terminal run these commands:
+
+```` 
+   # To install the tutorial run
+   npm install -g javascripting
+   
+   # then browse to the folder where you want to have your node.js files we are working on this semester.
+   cd folder_where_your_nodejs_files_are_going_to_be_located
+   
+   # Create a new folder
+   mkdir javascripting
+   
+   # Go into the folder
+   cd javascripting
+   
+   # Start the tutorial
+   javascripting
+   
+   # folow the instructions in the tutorial
+````    
+
 <strong>Code on Github: </strong>
 <ul>
 	<li><a href="https://github.com/keanodejs">keanodejs</a></li>
