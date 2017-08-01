@@ -1,5 +1,3 @@
-<img src="/img/nodejs-logo.png" >
-
 # #1 Tutorial: My first Webserver
 In this forst tutorial you are going to create a webserver with a webpage and deploy it to an online host. So the result will be your first, public accessable Node.js website.
 

@@ -1,3 +1,5 @@
+<img src="/img/nodejs-logo.png" >
+
 # Day 1 - Introduction to node.js Web Development    
 
 **Time:** 25/8-2017, 09:15 - 14:00
