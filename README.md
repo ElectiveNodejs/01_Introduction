@@ -1,4 +1,4 @@
-<img src="/img/nodejs-logo.png" >
+<img src="/img/nodejs--1-.png" >
 
 # Day 1 - Introduction to node.js Web Development    
 
