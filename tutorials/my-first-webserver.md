@@ -42,13 +42,13 @@ Start the server from the console by browsing to the folder you just created and
 
 Now open your browser and type in the url: http://localhost:3000/
 
-![](/img/browser.png)
+![](/tutorials/img/browser.png)
 
 If what you made now is indeed a webserver, and not just a document saying “Hello World”,  you should be able to access this site from you phone or another computer.
 
 Get the ip-address of you machine (the server) and then make sure that your phone is on the same network as your computer (the server). Type in 10.108.10.86:3000 (this is my ip, you should of cause use yours).
 
-![](/img/iphone.png)
+![](/tutorials//img/iphone.png)
 
 Hopefully you see this, otherwise: “are your devices on the same network” ?
  ___ 
