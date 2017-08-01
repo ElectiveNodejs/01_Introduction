@@ -9,6 +9,7 @@ You will also get an introduction to the Node.js framework, you will download an
 **Objectives:**
 
 * An overview of what will be covered in the next 14 weeks.
+  * Keallo, our common coding and example project.
   * [Curriculum](https://github.com/ElectiveNodejs/Curriculum/blob/master/README.md )
   * [Exam](/exam-requirements/) and [Mandatory Assignments]()
 * Introduction to and installation of [Node.js](https://nodejs.org/en/).
@@ -24,6 +25,18 @@ You will also get an introduction to the Node.js framework, you will download an
 * [Install git](https://git-scm.com/downloads)
 * [Unix/Linux Command Reference](https://ubuntudanmark.dk/filer/fwunixref.pdf)
 * <a href="/my-first-webserver/">My first Webserver</a> (used as "follow along" example in this class)
+
+** Homework for the class in 2 weeks (8-9-2017)
+* Javascripting
+
+In your terminal run this command:
+
+```` 
+   npm install -g javascripting
+````  
+
+
+
 
 <strong>Code on Github: </strong>
 <ul>
