@@ -26,15 +26,27 @@ You will also get an introduction to the Node.js framework, you will download an
 * [Unix/Linux Command Reference](https://ubuntudanmark.dk/filer/fwunixref.pdf)
 * <a href="/my-first-webserver/">My first Webserver</a> (used as "follow along" example in this class)
 
-** Homework for the class in 2 weeks (8-9-2017)
-* Javascripting
+**Homework** (this should be done before the class in 2 weeks (8-9-2017))    
 
 In your terminal run this command:
 
 ```` 
    npm install -g javascripting
 ````  
+then browse to the folder where you want to have your node.js files we are working on this semester.
+```` 
+   cd folder_where_your_nodejs_files_are_going_to_be_located
+````    
 
+Then create a new folder
+```` 
+   mkdir javascripting
+````    
+Then go into the folder
+
+```` 
+   cd javascripting
+````    
 
 
 
