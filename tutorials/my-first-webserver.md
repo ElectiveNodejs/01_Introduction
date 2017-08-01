@@ -27,6 +27,7 @@ Now let´s create our first server. Create a folder and in it a file called serv
 
 ```prettyprint javascript
     var http = require('http');
+    
     http.createServer(function (req, res) {
       res.writeHead(200, {'Content-Type': 'text/plain'});
       res.end('Hello World\n');
