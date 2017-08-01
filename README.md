@@ -31,21 +31,22 @@ You will also get an introduction to the Node.js framework, you will download an
 In your terminal run these commands:
 
 ```` 
-   npm install -g javascripting
+   # To install the tutorial run
+   npm install -g javascripting
    
-   // then browse to the folder where you want to have your node.js files we are working on this semester.
+   # then browse to the folder where you want to have your node.js files we are working on this semester.
    cd folder_where_your_nodejs_files_are_going_to_be_located
    
-   // Create a new folder
+   # Create a new folder
    mkdir javascripting
    
-   // Go into the folder
+   # Go into the folder
    cd javascripting
    
-   // Start the tutorial
+   # Start the tutorial
    javascripting
    
-   // folow the instructions in the tutorial
+   # folow the instructions in the tutorial
 ````    
 
 <strong>Code on Github: </strong>
