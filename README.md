@@ -21,12 +21,10 @@ You will also get an introduction to the Node.js framework, you will download an
 * [Node.js](https://nodejs.org/en/)
 
 **Exercises:**  
-<!--
 * [Install git](https://git-scm.com/downloads)
 * [Unix/Linux Command Reference](https://ubuntudanmark.dk/filer/fwunixref.pdf)
 * <a href="/my-first-webserver/">My first Webserver</a> (used as "follow along" example in this class)
 
---> 
 <strong>Code on Github: </strong>
 <ul>
 	<li><a href="https://github.com/keanodejs">keanodejs</a></li>
