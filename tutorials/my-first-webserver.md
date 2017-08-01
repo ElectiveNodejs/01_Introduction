@@ -48,7 +48,7 @@ If what you made now is indeed a webserver, and not just a document saying “He
 
 Get the ip-address of you machine (the server) and then make sure that your phone is on the same network as your computer (the server). Type in 10.108.10.86:3000 (this is my ip, you should of cause use yours).
 
-<img src="/tutorials//img/iphone.png" width="200" >
+<img src="/tutorials//img/iphone.png" width="400" >
 
 
 Hopefully you see this, otherwise: “are your devices on the same network” ?
