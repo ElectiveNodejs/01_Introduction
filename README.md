@@ -1,6 +1,5 @@
-<img src="/img/nodejs--1-.png" >
-
-# Day 1 - Introduction to node.js Web Development    
+# Day 1 - Introduction to node.js Web Development   
+<img src="/img/nodejs--1-.png" > 
 
 **Time:** 25/8-2017, 09:15 - 14:00
 
