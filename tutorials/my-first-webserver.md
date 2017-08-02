@@ -69,7 +69,14 @@ The aproach we will take in this elective is to create an API.
 TOdo: write tutorial
 
 
+## Deploy to an online host
 
+TODO: write tutorial
+
+
+## Create a simple frontend JQuery app
+
+TODO: write tutorial
 
 
  ___ 
