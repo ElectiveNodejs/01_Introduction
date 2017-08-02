@@ -55,5 +55,22 @@ Get the ip-address of you machine (the server) and then make sure that your phon
 
 
 Hopefully you see this, otherwise: “are your devices on the same network” ?
+
+## HTML 
+
+If we go one step further we can show a html page instead of the simple text page above.    
+
+TODO: write tutorial    
+
+## JSON
+
+The aproach we will take in this elective is to create an API.
+
+TOdo: write tutorial
+
+
+
+
+
  ___ 
 <footer align="right" style="font-size: small">(heavily inspired by http://howtonode.org/deploy-blog-to-heroku)</footer>
