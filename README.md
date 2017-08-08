@@ -11,9 +11,11 @@ You will also get an introduction to the Node.js framework, you will download an
 ## Objectives:
 
 * An overview of what will be covered in the next 14 weeks.
-  * Keallo, our common coding and example project.
+  * our common coding and example project.
   * [Curriculum](https://github.com/ElectiveNodejs/Curriculum/blob/master/README.md )
   * [Exam](/exam-requirements/) and [Mandatory Assignments]()
+  * Github
+  * Ryver
 * Introduction to and installation of [Node.js](https://nodejs.org/en/).
 * Itroduction to event driven programming
 * [Make your first Webserver](/my-first-webserver/) and a Hello World web page.
