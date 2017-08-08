@@ -1,4 +1,4 @@
-Husk ryver
+
 # Day 1 - Introduction to node.js Web Development   
 <img src="/img/nodejs--1-.png" > 
 
