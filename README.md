@@ -12,12 +12,13 @@ You will also get an introduction to the Node.js framework, you will download an
 
 * An overview of what will be covered in the next 14 weeks.
   * [Curriculum](https://github.com/ElectiveNodejs/Curriculum/blob/master/README.md )
-  * [Exam](/exam-requirements/) and [Mandatory Assignments]()
+  * [Exam](https://github.com/ElectiveNodejs/exam_requirements) and [Mandatory Assignments](https://github.com/ElectiveNodejs/MandatoryAssignments)
   * Github
   * Ryver
+    * Put in your 
 * Introduction to and installation of [Node.js](https://nodejs.org/en/).
 * Introduction to event driven programming
-* [Make your first Webserver](/my-first-webserver/) and a Hello World web page.
+* [Make your first Webserver](https://github.com/ElectiveNodejs/01_Tutorial_My_first_Webserver) and a Hello World web page.
 
 ## Tools:  
 
