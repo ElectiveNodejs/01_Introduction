@@ -28,6 +28,7 @@ You will also get an introduction to the Node.js framework, you will download an
 
 ## Exercises: 
 * [Install git](https://git-scm.com/downloads)
+  * On windows choose "git bash" when asked during instalation
 * [Unix/Linux Command Reference](https://ubuntudanmark.dk/filer/fwunixref.pdf)
 * <a href="https://github.com/ElectiveNodejs/01_Tutorial_My_first_Webserver">My first Webserver</a> (used as "follow along" example in this class)
 
