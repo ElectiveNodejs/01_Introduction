@@ -11,19 +11,18 @@ You will also get an introduction to the Node.js framework, you will download an
 ## Objectives:
 
 * An overview of what will be covered in the next 14 weeks.
-  * our common coding and example project.
   * [Curriculum](https://github.com/ElectiveNodejs/Curriculum/blob/master/README.md )
   * [Exam](/exam-requirements/) and [Mandatory Assignments]()
   * Github
   * Ryver
 * Introduction to and installation of [Node.js](https://nodejs.org/en/).
-* Itroduction to event driven programming
+* Introduction to event driven programming
 * [Make your first Webserver](/my-first-webserver/) and a Hello World web page.
 
 ## Tools:  
 
 * [Git](https://git-scm.com/downloads)  
-* [VS Code](https://code.visualstudio.com/) or [Sublime Text 3](https://www.sublimetext.com/3) or ...    
+* [VS Code](https://code.visualstudio.com/) or [Sublime Text 3](https://www.sublimetext.com/3) or any text editor of your choise.    
 * [Node.js](https://nodejs.org/en/)
 
 ## Exercises: 
@@ -57,6 +56,6 @@ In your terminal run these commands:
 
 <strong>Code on Github: </strong>
 <ul>
-	<li><a href="https://github.com/keanodejs">keanodejs</a></li>
-	<li><a href="https://github.com/keanodejs?utf8=%E2%9C%93&amp;query=01">Todays examples</a></li>
+	<li><a href="https://github.com/ElectiveNodejs">ElectiveNodejs</a></li>
+	<li><a href="https://github.com/ElectiveNodejs?utf8=%E2%9C%93&q=01&type=">Todays examples</a></li>
 </ul>
